@@ -1,1 +1,2 @@
 # Multiplication_App
+Overall, the Multiplication App is a user-friendly and engaging web application that promotes multiplication practice while tracking the user's score. It provides immediate feedback, encourages accuracy, and offers an interactive experience to enhance the learning process. Whether users are students, teachers, or anyone looking to improve their multiplication skills, this app serves as a valuable tool for practice and self-assessment.
